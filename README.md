@@ -25,7 +25,7 @@ $ ./dist/helloshiv
 
 有几个参数说明一下
 
-- `-c` `entry_points` 配置，比如这个例子里面配置了一个 **helloshiv**
+- `-c` setup.py 中 `entry_points` 配置，比如这个例子里面配置了一个 **helloshiv**
 - `-p` 指名使用的解释器。也可以不知定，那么执行的时候需要带上解释器路径，比如 `python dist/helloshiv`
 
 ## reference
