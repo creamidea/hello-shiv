@@ -31,7 +31,7 @@ $ ./dist/helloshiv
 ## reference
 
 - https://shiv.readthedocs.io/en/latest/cli-reference.html#shiv
-- https://github.com/creamidea/creamidea.github.com/issues/31
+- [Python Import Problem](https://github.com/creamidea/creamidea.github.com/issues/31)
 - [Python 库打包分发(setup.py 编写)简易指南](https://blog.konghy.cn/2018/04/29/setup-dot-py/)
 - [花了两天，终于把 Python 的 setup.py 给整明白了](https://zhuanlan.zhihu.com/p/276461821)
 - [Python 打包时添加非代码文件的坑](https://zhuanlan.zhihu.com/p/24312755)
